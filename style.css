@@ -5,7 +5,6 @@
     
 }
 body {
-    /* background-color: blueviolet; */
     min-height: 100vh;
     min-width: 100vw;
     font-family: "Pridi", serif;
@@ -13,7 +12,6 @@ body {
 }
 
 .main-box {
-    /* background-color: aqua; */
     width: 600px;
     min-height: 50px;
     margin: 100px;
@@ -23,7 +21,6 @@ body {
     box-shadow: 4px 4px 10px 1px rgba(184,184,184,0.5);
 }
 .main-box > div {
-    /* background-color: coral; */
     margin: 4px;
     padding: 6px;
 }
